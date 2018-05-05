@@ -11,7 +11,7 @@ Debian GNU/Linux Sid上のTDF版LibreOffice 6.0.3を使用して作成してい�
   - https://noto-website-2.storage.googleapis.com/pkgs/NotoSansJP.zip
   - https://noto-website-2.storage.googleapis.com/pkgs/NotoSerifJP.zip
 
-## LICENSE
+## ライセンス
 
 野方が作成したファイルは、Public Domain / CC0を適用します。
 
